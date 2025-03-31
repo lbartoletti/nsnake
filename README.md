@@ -1,6 +1,17 @@
 # nsnake
+<a href="https://codeberg.org/lbartoletti/nsnake">
+    <img alt="Get it on Codeberg" src="https://get-it-on.codeberg.org/get-it-on-blue-on-white.png" height="60" align="right">
+</a>
+
+[![Issue Tracker](https://img.shields.io/badge/Issue_tracker-Codeberg-blue.svg)](https://codeberg.org/lbartoletti/nsnake/issues) 
 
 A terminal-based Snake game written in Nim using illwill for curses-style graphics.
+
+The main repository is on [codeberg](https://codeberg.org/lbartoletti/nsnake),
+which is where the issue tracker may be found and where contributions are accepted.
+
+Read-only mirrors exist on [sourcehut](https://git.sr.ht/~lbartoletti/nsnake)
+and [github](https://github.com/lbartoletti/nsnake).
 
 ## Features
 
